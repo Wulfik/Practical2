@@ -2,9 +2,6 @@ import com.sun.istack.internal.NotNull;
 
 import java.util.TreeSet;
 
-/**
- * Created by User on 20.03.2017.
- */
 public class Male extends Person {
 
     public static final Male DEFAULT = new Male() {
